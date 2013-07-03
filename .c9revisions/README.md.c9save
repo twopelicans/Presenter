@@ -1,0 +1,86 @@
+{"ts":1372844368525,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"Presenter\n=========\n\nAnother Impress.js, Websockets, Presenter Service\n"]],"start1":0,"start2":0,"length1":0,"length2":71}]],"length":71}
+{"contributors":[],"silentsave":true,"ts":1372844383275,"patch":[[{"diffs":[[0,"==\n\n"],[-1,"Another Impress.js, Websockets, Presenter Service"],[1,"The pur"],[0,"\n"]],"start1":17,"start2":17,"length1":54,"length2":12}]],"length":29,"saved":false}
+{"ts":1372844388777,"patch":[[{"diffs":[[0,"\nThe pur"],[1,"pose for pres"],[0,"\n"]],"start1":20,"start2":20,"length1":9,"length2":22}]],"length":42,"saved":false}
+{"ts":1372844389625,"patch":[[{"diffs":[[0,"ose "],[-1,"for pres"],[0,"\n"]],"start1":29,"start2":29,"length1":13,"length2":5}]],"length":34,"saved":false}
+{"ts":1372844390293,"patch":[[{"diffs":[[0,"purpose "],[1,"o"],[0,"\n"]],"start1":25,"start2":25,"length1":9,"length2":10}]],"length":35,"saved":false}
+{"ts":1372844394664,"patch":[[{"diffs":[[0,"urpose o"],[1,"f Presenter is to "],[0,"\n"]],"start1":26,"start2":26,"length1":9,"length2":27}]],"length":53,"saved":false}
+{"ts":1372844401410,"patch":[[{"diffs":[[0,"r is to "],[1,"give "],[0,"\n"]],"start1":44,"start2":44,"length1":9,"length2":14}]],"length":58,"saved":false}
+{"ts":1372844411597,"patch":[[{"diffs":[[0,"ente"],[-1,"r is to give "],[0,"\n"]],"start1":40,"start2":40,"length1":18,"length2":5}]],"length":45,"saved":false}
+{"ts":1372844413789,"patch":[[{"diffs":[[0,"==\n\n"],[-1,"The purpose of Presente"],[0,"\n"]],"start1":17,"start2":17,"length1":28,"length2":5}]],"length":22,"saved":false}
+{"ts":1372844424562,"patch":[[{"diffs":[[0,"======\n\n"],[1,"Hopefully delivering a "],[0,"\n"]],"start1":13,"start2":13,"length1":9,"length2":32}]],"length":45,"saved":false}
+{"ts":1372844438040,"patch":[[{"diffs":[[0,"ering a "],[1,"Remote controlled presentation solution using\n"],[0,"\n"]],"start1":36,"start2":36,"length1":9,"length2":55}]],"length":91,"saved":false}
+{"ts":1372844441669,"patch":[[{"diffs":[[0,"n using\n"],[1,"Impress."],[0,"\n"]],"start1":82,"start2":82,"length1":9,"length2":17}]],"length":99,"saved":false}
+{"ts":1372844443660,"patch":[[{"diffs":[[0,"Impress."],[1,"j as the "],[0,"\n"]],"start1":90,"start2":90,"length1":9,"length2":18}]],"length":108,"saved":false}
+{"ts":1372844449500,"patch":[[{"diffs":[[0," as the "],[1,"pre"],[0,"\n"]],"start1":99,"start2":99,"length1":9,"length2":12}]],"length":111,"saved":false}
+{"ts":1372844453148,"patch":[[{"diffs":[[0," the pre"],[1,"sentation framw"],[0,"\n"]],"start1":102,"start2":102,"length1":9,"length2":24}]],"length":126,"saved":false}
+{"ts":1372844454459,"patch":[[{"diffs":[[0,"fram"],[-1,"w"],[1,"e"],[0,"\n"]],"start1":120,"start2":120,"length1":6,"length2":6}]],"length":126,"saved":false}
+{"ts":1372844459529,"patch":[[{"diffs":[[0,"on frame"],[1,"work with Python "],[0,"\n"]],"start1":117,"start2":117,"length1":9,"length2":26}]],"length":143,"saved":false}
+{"ts":1372844460677,"patch":[[{"diffs":[[0," Python "],[1,"(Fl"],[0,"\n"]],"start1":134,"start2":134,"length1":9,"length2":12}]],"length":146,"saved":false}
+{"ts":1372844461964,"patch":[[{"diffs":[[0,"thon (Fl"],[1,"ask,"],[0,"\n"]],"start1":137,"start2":137,"length1":9,"length2":13}]],"length":150,"saved":false}
+{"ts":1372844463130,"patch":[[{"diffs":[[0," (Flask,"],[1," "],[0,"\n"]],"start1":141,"start2":141,"length1":9,"length2":10}]],"length":151,"saved":false}
+{"ts":1372844469490,"patch":[[{"diffs":[[0,"(Flask, "],[1,"Server Side Push"],[0,"\n"]],"start1":142,"start2":142,"length1":9,"length2":25}]],"length":167,"saved":false}
+{"ts":1372844470226,"patch":[[{"diffs":[[0,"e Pu"],[-1,"sh"],[0,"\n"]],"start1":160,"start2":160,"length1":7,"length2":5}]],"length":165,"saved":false}
+{"ts":1372844471526,"patch":[[{"diffs":[[0,"ide "],[-1,"Pu"],[1,"E"],[0,"\n"]],"start1":158,"start2":158,"length1":7,"length2":6}]],"length":164,"saved":false}
+{"ts":1372844473022,"patch":[[{"diffs":[[0,"r Side E"],[1,"vents"],[0,"\n"]],"start1":155,"start2":155,"length1":9,"length2":14}]],"length":169,"saved":false}
+{"ts":1372844474610,"patch":[[{"diffs":[[0,"e Events"],[1,") "],[0,"\n"]],"start1":160,"start2":160,"length1":9,"length2":11}]],"length":171,"saved":false}
+{"ts":1372844475192,"patch":[[{"diffs":[[0,"Events) "],[1,"ap"],[0,"\n"]],"start1":162,"start2":162,"length1":9,"length2":11}]],"length":173,"saved":false}
+{"ts":1372844477420,"patch":[[{"diffs":[[0,"ents) ap"],[1,"plying th "],[0,"\n"]],"start1":164,"start2":164,"length1":9,"length2":19}]],"length":183,"saved":false}
+{"ts":1372844479073,"patch":[[{"diffs":[[0,"nts)"],[-1," applying th "],[1,"\n"],[0,"\n"]],"start1":165,"start2":165,"length1":18,"length2":6}]],"length":171,"saved":false}
+{"ts":1372844479863,"patch":[[{"diffs":[[0,"Events)\n"],[1,"f"],[0,"\n"]],"start1":162,"start2":162,"length1":9,"length2":10}]],"length":172,"saved":false}
+{"ts":1372844481496,"patch":[[{"diffs":[[0,"vents)\nf"],[1,"or cont"],[0,"\n"]],"start1":163,"start2":163,"length1":9,"length2":16}]],"length":179,"saved":false}
+{"ts":1372844482895,"patch":[[{"diffs":[[0,"for cont"],[1,"rol"],[0,"\n"]],"start1":170,"start2":170,"length1":9,"length2":12}]],"length":182,"saved":false}
+{"ts":1372844487238,"patch":[[{"diffs":[[0," control"],[1,"."],[0,"\n"]],"start1":173,"start2":173,"length1":9,"length2":10}]],"length":183,"saved":false}
+{"ts":1372844521726,"patch":[[{"diffs":[[0,"er S"],[-1,"id"],[0,"e Ev"]],"start1":154,"start2":154,"length1":10,"length2":8}]],"length":181,"saved":false}
+{"ts":1372844522748,"patch":[[{"diffs":[[0,"erver Se"],[1,"nt"],[0," Events)"]],"start1":151,"start2":151,"length1":16,"length2":18}]],"length":183,"saved":false}
+{"ts":1372845849829,"patch":[[{"diffs":[[0,"ontrol.\n"],[1,"SSEs ar"]],"start1":175,"start2":175,"length1":8,"length2":15}]],"length":190,"saved":false}
+{"ts":1372845854580,"patch":[[{"diffs":[[0,"\nSSEs ar"],[1,"e implemented in all recen"]],"start1":182,"start2":182,"length1":8,"length2":34}]],"length":216,"saved":false}
+{"ts":1372845857814,"patch":[[{"diffs":[[0,"ll recen"],[1,"t browser"]],"start1":208,"start2":208,"length1":8,"length2":17}]],"length":225,"saved":false}
+{"ts":1372845860066,"patch":[[{"diffs":[[0," browser"],[1,"s less "]],"start1":217,"start2":217,"length1":8,"length2":15}]],"length":232,"saved":false}
+{"ts":1372845861430,"patch":[[{"diffs":[[0,"rs less "],[1,"IE "]],"start1":224,"start2":224,"length1":8,"length2":11}]],"length":235,"saved":false}
+{"ts":1372845863163,"patch":[[{"diffs":[[0," less IE"],[-1," "]],"start1":226,"start2":226,"length1":9,"length2":8}]],"length":234,"saved":false}
+{"ts":1372845867802,"patch":[[{"diffs":[[0," less IE"],[1,".  for older browsers\ny"]],"start1":226,"start2":226,"length1":8,"length2":31}]],"length":257,"saved":false}
+{"ts":1372845870024,"patch":[[{"diffs":[[0,"owsers\ny"],[1,"ou can use "]],"start1":249,"start2":249,"length1":8,"length2":19}]],"length":268,"saved":false}
+{"ts":1372845876899,"patch":[[{"diffs":[[0,"can use "],[1,"pollyfills eg "]],"start1":260,"start2":260,"length1":8,"length2":22}]],"length":282,"saved":false}
+{"ts":1372845878400,"patch":[[{"diffs":[[0,"ills eg "],[1,"events"]],"start1":274,"start2":274,"length1":8,"length2":14}]],"length":288,"saved":false}
+{"ts":1372845879558,"patch":[[{"diffs":[[0,"ls eg events"],[1,"ourc"]],"start1":276,"start2":276,"length1":12,"length2":16}]],"length":292,"saved":false}
+{"ts":1372845882048,"patch":[[{"diffs":[[0,"entsourc"],[1,".js or "]],"start1":284,"start2":284,"length1":8,"length2":15}]],"length":299,"saved":false}
+{"ts":1372845891010,"patch":[[{"diffs":[[0,"c.js or "],[1,"jquery"]],"start1":291,"start2":291,"length1":8,"length2":14}]],"length":305,"saved":false}
+{"ts":1372845898021,"patch":[[{"diffs":[[0,"entsourc"],[1,"e"],[0,".js or j"]],"start1":284,"start2":284,"length1":16,"length2":17}]],"length":306,"saved":false}
+{"ts":1372845908641,"patch":[[{"diffs":[[0,"r jquery"],[1,".eventsou"]],"start1":298,"start2":298,"length1":8,"length2":17}]],"length":315,"saved":false}
+{"ts":1372845909929,"patch":[[{"diffs":[[0," jquery.eventsou"],[1,"rce"]],"start1":299,"start2":299,"length1":16,"length2":19}]],"length":318,"saved":false}
+{"ts":1372845921085,"patch":[[{"diffs":[[0,"uery.eventsource"],[1,".\n"]],"start1":302,"start2":302,"length1":16,"length2":18}]],"length":320,"saved":false}
+{"ts":1372845923643,"patch":[[{"diffs":[[0,"source.\n"],[1,"SSE was ch"]],"start1":312,"start2":312,"length1":8,"length2":18}]],"length":330,"saved":false}
+{"ts":1372845926516,"patch":[[{"diffs":[[0,"E was ch"],[1,"osen over "]],"start1":322,"start2":322,"length1":8,"length2":18}]],"length":340,"saved":false}
+{"ts":1372845929774,"patch":[[{"diffs":[[0,"chosen over "],[1,"Web Socke"]],"start1":328,"start2":328,"length1":12,"length2":21}]],"length":349,"saved":false}
+{"ts":1372845931377,"patch":[[{"diffs":[[0,"eb Socke"],[1,"ts "]],"start1":341,"start2":341,"length1":8,"length2":11}]],"length":352,"saved":false}
+{"ts":1372845936623,"patch":[[{"diffs":[[0,"Sockets "],[1,"to KI"]],"start1":344,"start2":344,"length1":8,"length2":13}]],"length":357,"saved":false}
+{"ts":1372845937844,"patch":[[{"diffs":[[0,"ts to KI"],[1,"SS"]],"start1":349,"start2":349,"length1":8,"length2":10}]],"length":359,"saved":false}
+{"ts":1372845964777,"patch":[[{"diffs":[[0," to KISS"],[1," as I ca"]],"start1":351,"start2":351,"length1":8,"length2":16}]],"length":367,"saved":false}
+{"ts":1372845965770,"patch":[[{"diffs":[[0," as I ca"],[1,"n use"]],"start1":359,"start2":359,"length1":8,"length2":13}]],"length":372,"saved":false}
+{"ts":1372845970284,"patch":[[{"diffs":[[0,"ISS as I can use"],[1," std Http for"]],"start1":356,"start2":356,"length1":16,"length2":29}]],"length":385,"saved":false}
+{"ts":1372845973042,"patch":[[{"diffs":[[0,"std Http for"],[1," the presenter "]],"start1":373,"start2":373,"length1":12,"length2":27}]],"length":400,"saved":false}
+{"ts":1372845974071,"patch":[[{"diffs":[[0,"esenter "],[1,"\nan"]],"start1":392,"start2":392,"length1":8,"length2":11}]],"length":403,"saved":false}
+{"ts":1372845975192,"patch":[[{"diffs":[[0,"nter \nan"],[1,"d sl"]],"start1":395,"start2":395,"length1":8,"length2":12}]],"length":407,"saved":false}
+{"ts":1372845976380,"patch":[[{"diffs":[[0," \nand sl"],[1,"ide c"]],"start1":399,"start2":399,"length1":8,"length2":13}]],"length":412,"saved":false}
+{"ts":1372845977887,"patch":[[{"diffs":[[0," slide c"],[1,"hanges "]],"start1":404,"start2":404,"length1":8,"length2":15}]],"length":419,"saved":false}
+{"ts":1372845984133,"patch":[[{"diffs":[[0,"changes "],[1,"pushed to the clients via SSE."]],"start1":411,"start2":411,"length1":8,"length2":38}]],"length":449,"saved":false}
+{"ts":1372845987677,"patch":[[{"diffs":[[0,"via SSE."],[1,"  all in one app"]],"start1":441,"start2":441,"length1":8,"length2":24}]],"length":465,"saved":false}
+{"ts":1372845990348,"patch":[[{"diffs":[[0," one app"],[1," and one port\n"]],"start1":457,"start2":457,"length1":8,"length2":22}]],"length":479,"saved":false}
+{"ts":1372845993924,"patch":[[{"diffs":[[0,"ne port\n"],[1,"great for all "]],"start1":471,"start2":471,"length1":8,"length2":22}]],"length":493,"saved":false}
+{"ts":1372845996771,"patch":[[{"diffs":[[0,"eat for "],[-1,"all "]],"start1":481,"start2":481,"length1":12,"length2":8}]],"length":489,"saved":false}
+{"ts":1372845998461,"patch":[[{"diffs":[[0,"t\ngreat for "],[1,"all "]],"start1":477,"start2":477,"length1":12,"length2":16}]],"length":493,"saved":false}
+{"ts":1372846002351,"patch":[[{"diffs":[[0,"eat for all "],[1,"that like "]],"start1":481,"start2":481,"length1":12,"length2":22}]],"length":503,"saved":false}
+{"ts":1372846004094,"patch":[[{"diffs":[[0,"that lik"],[-1,"e "]],"start1":493,"start2":493,"length1":10,"length2":8}]],"length":501,"saved":false}
+{"ts":1372846005872,"patch":[[{"diffs":[[0,"grea"],[-1,"t for all that lik"]],"start1":479,"start2":479,"length1":22,"length2":4}]],"length":483,"saved":false}
+{"ts":1372846007311,"patch":[[{"diffs":[[0,"ort\n"],[-1,"grea"]],"start1":475,"start2":475,"length1":8,"length2":4}]],"length":479,"saved":false}
+{"ts":1372846008919,"patch":[[{"diffs":[[0," one"],[-1," port\n"]],"start1":469,"start2":469,"length1":10,"length2":4}]],"length":473,"saved":false}
+{"ts":1372846010226,"patch":[[{"diffs":[[0,"app and "],[-1,"one"],[1,"th"]],"start1":462,"start2":462,"length1":11,"length2":10}]],"length":472,"saved":false}
+{"ts":1372846013092,"patch":[[{"diffs":[[0,"p and th"],[1,"e standard h"]],"start1":464,"start2":464,"length1":8,"length2":20}]],"length":484,"saved":false}
+{"ts":1372846013660,"patch":[[{"diffs":[[0,"tandard "],[-1,"h"]],"start1":475,"start2":475,"length1":9,"length2":8}]],"length":483,"saved":false}
+{"ts":1372846014644,"patch":[[{"diffs":[[0,"standard"],[-1," "],[1,"\n"]],"start1":474,"start2":474,"length1":9,"length2":9}]],"length":483,"saved":false}
+{"ts":1372846015422,"patch":[[{"diffs":[[0,"tandard\n"],[1,"ht"]],"start1":475,"start2":475,"length1":8,"length2":10}]],"length":485,"saved":false}
+{"ts":1372846018330,"patch":[[{"diffs":[[0,"ndard\nht"],[1,"tp port w"]],"start1":477,"start2":477,"length1":8,"length2":17}]],"length":494,"saved":false}
+{"ts":1372846024051,"patch":[[{"diffs":[[0,"ttp port"],[1,"s"],[0," w"],[1,"hich "]],"start1":484,"start2":484,"length1":10,"length2":16}]],"length":500,"saved":false}
+{"ts":1372846024869,"patch":[[{"diffs":[[0,"s which "],[1,"f"]],"start1":492,"start2":492,"length1":8,"length2":9}]],"length":501,"saved":false}
+{"ts":1372846027265,"patch":[[{"diffs":[[0," which f"],[1,"or me is k"]],"start1":493,"start2":493,"length1":8,"length2":18}]],"length":511,"saved":false}
+{"ts":1372846029084,"patch":[[{"diffs":[[0," me is k"],[1,"ey"]],"start1":503,"start2":503,"length1":8,"length2":10}]],"length":513,"saved":false}
