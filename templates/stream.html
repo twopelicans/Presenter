@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+
+   		<title>Presentation Name</title>
+
+		<link rel="stylesheet" href="{{ url_for('static', filename='impress.css') }}" />
+
+	</head>
+	<body>
+	
+	{% block presentation %}{% endblock %}
+	
+	 <script src="{{ url_for('static', filename='impress.js')}}"></script>
+        <script>
+            var api = impress();
+            api.init();
+            var id = 1
+			 var es = new EventSource('/audience');
+                es.onmessage = function(event) 
+				{
+                    
+                    if (event.lastEventId > id){
+                                
+					switch (event.data)
+						{
+						case 'Next':
+						  api.next();
+						  break;
+						case 'Prev':
+						  api.prev();
+						  break;
+						}
+                    id = event.lastEventId;
+                    }
+				}
+        </script>
+
+	</body>
+</html>
